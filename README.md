@@ -38,10 +38,9 @@ Uso o JavaScript com a função eval() para fazer os calculos.
 <br/>
 <div align="center">
  <img 
-    src="./src/img/calculator_project.mp4"
+    src="./src/img/calculator_project.gif"
     alt="calculator project git" width="350" border="2"
   />
- 
 </div>
 <br/>
 <br/>
