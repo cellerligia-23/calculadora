@@ -1,6 +1,6 @@
 # <img src="./src/img/calculadora_img.png" target="_blank" alt="logo dio" width="40" /> PROJETO CALCULADORA
 
-Aqui você vai encontrar um pequeno projeto em HTML, CSS e JavaScript. Esse projeto mostra uma **calculadora** simples.
+Aqui você vai encontrar um pequeno projeto em HTML, CSS e JavaScript. Esse projeto mostra uma **calculadora básica** .
 A calculadora é feita toda no HTML e CSS puro.
 
 <div align="center">
@@ -19,7 +19,7 @@ A calculadora é feita toda no HTML e CSS puro.
 
 ## DESCRIÇÃO DO PROJETO :computer:
 
-Uso o JavaScript com a função eval() para fazer os calculos.
+Uso o JavaScript com a função eval() para fazer os cálculos.
 
 <br/>
 <div align="center">
@@ -45,4 +45,4 @@ Uso o JavaScript com a função eval() para fazer os calculos.
 <br/>
 <br/>
 
-:smile: **<a href="https://cellerligia-23.github.io/calculadora/">Página do projeto Calculador</a>** :blush:
+:smile: **<a href="https://cellerligia-23.github.io/calculadora/">Página do projeto Calculadora Básica</a>** :blush:
